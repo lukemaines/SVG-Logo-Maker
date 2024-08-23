@@ -4,7 +4,7 @@
   "description": "Node.js command application that generates a logo and saves it as an SVG file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
