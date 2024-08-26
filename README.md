@@ -5,20 +5,15 @@ The SVG Logo Maker is a Node.js command-line tool that lets you create simple SV
 ## Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/svg-logo-maker.git
-cd svg-logo-maker
+
 Install dependencies:
 
-bash
-Copy code
 npm install
-Usage
+
+## Usage
 Run the application:
 
-bash
-Copy code
 node index.js
 Follow the prompts:
 
@@ -30,13 +25,8 @@ View the generated logo:
 
 The logo will be saved as logo.svg in the current directory.
 Open it in a browser to see your custom SVG logo.
-Example
-Here's an example of a generated SVG logo:
 
-Text: SVG
-Text Color: White
-Shape: Circle
-Shape Color: Green
-Walkthrough Video
+## Example
+
 Watch the walkthrough video here
-<iframe src="https://drive.google.com/file/d/1ybiIzGQcFfyjp0V7E_MUFxeeH6UFCItu/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1ybiIzGQcFfyjp0V7E_MUFxeeH6UFCItu/preview
